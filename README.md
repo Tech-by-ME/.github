@@ -1,3 +1,4 @@
-# meFund tech
+# Tech-by-ME
 
-Hi, we are meFund, a blockchain online platform support crowdfunding.
+Hi, we are meTeam, people who love solving problem.
+
