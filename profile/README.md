@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-🙋‍♀️ We are meFund Dev team. We are working on crowdfunding platform.
+🙋‍♀️ We are dev team, nerdy, and lowkey, who love solving probem to make the world a better place!
